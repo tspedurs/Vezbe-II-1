@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+// BB 10
 namespace Kamata
 {
     public partial class Form1 : Form
